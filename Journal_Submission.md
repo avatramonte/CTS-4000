@@ -1,4 +1,13 @@
-# Reddit: Division and Discourse - Surveillance and Society Submission
+# Reddit: Division and Discourse 
+
+**Author:** Ava Tramonte
+
+**Issue:** Surveillance and Society Submissions
+
+**Date:** October 15th, 2025
+
+---
+
 Reddit, a social media platform often described as a space for open discussion and diverse communities, is also one that shapes online discourse and division. Reddit tracks user data and actively shapes user behavior and identity through interface design, platform governance, and profit-driven algorithms. The site propagates existing social biases and creates new social hierarchies while surveilling members for disciplinary control and nudging self-regulation. Using critical frameworks and drawing from personal observations, I will uncover the impact the platform has on its users, and highlight necessary reform, in order to protect their autonomy, right to privacy, and advocate for an equal digital experience among users.
 
 ## Introduction
